@@ -6,7 +6,11 @@ body {
   background-color: #121212;
   text-align: center;
 }
-
+.hero {
+  background-image: url('images/image1.jpg');
+  background-size: cover;
+  background-position: center;
+}
 header {
   display: flex;
   justify-content: space-between;
