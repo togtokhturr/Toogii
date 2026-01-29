@@ -58,3 +58,11 @@ footer {
   padding: 20px;
   background: #1e1e1e;
 }
+ 
+.gallery-grid img {
+  width: 250px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 10px;
+}
